@@ -1,0 +1,4 @@
+/root/.cache/JetBrains/RemoteDev/dist/4c7a0de431e93_CLion-2024.1.4/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/root/.cache/JetBrains/RemoteDev/dist/4c7a0de431e93_CLion-2024.1.4/bin/ninja/linux/x64/ninja -G Ninja -S /home/weilai/test/td -B /home/weilai/test/td/cmake-build-debug
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/weilai/test/td/cmake-build-debug

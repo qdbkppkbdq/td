@@ -1,0 +1,3 @@
+/home/weilai/test/td/cmake-build-debug/CMakeFiles/td.dir
+/home/weilai/test/td/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/weilai/test/td/cmake-build-debug/CMakeFiles/rebuild_cache.dir
